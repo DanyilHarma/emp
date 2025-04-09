@@ -1,7 +1,5 @@
 # Проекты и легенды
 
-Добро пожаловать! Ниже список всех описанных проектов с краткими ссылками.
-
 ## [YCLIENTS (B2B, SaaS)](projects/YClients/YClients.MD)
 
 -   [Фичи YCLIENTS](projects/YClients/features.MD)
